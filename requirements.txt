@@ -1,0 +1,17 @@
+###### Requirements without Version Specifiers - SOMEONE NEEDS TO SORT THAT OUT ######
+## SUGGESTION - CREATE VIRTUAL ENV, THEN INSTALL REQUIRED PACKAGES 
+## THEN - pip3 freeze > requirements.txt   
+
+# twitter 
+tweepy
+
+# Secret environment 
+python-dotenv
+
+# usual DS suspects
+pandas 
+numpy 
+matplotlib
+
+# API related
+requests 
